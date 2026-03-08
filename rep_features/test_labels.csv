@@ -1,0 +1,1416 @@
+filepath,label
+rep_features\test\Positives/Blocked\mfcc_whatsapp-audio-2026-03-06-at-91752-am_08qp5qNc_orig.npy,1
+rep_features\test\Positives/Blocked\mfcc_WhatsApp Audio 2026-03-05 at 22.58.42_orig.npy,1
+rep_features\test\Positives/Blocked\mfcc_WhatsApp Ptt 2026-03-05 at 21.31.37_orig.npy,1
+rep_features\test\Positives/Blocked\mfcc_WhatsApp Audio 2026-03-06 at 1.35.01 PM_orig.npy,1
+rep_features\test\Positives/Blocked\mfcc_WhatsApp Ptt 2026-03-05 at 22.30.39_orig.npy,1
+rep_features\test\Positives/Blocked\mfcc_WhatsApp Audio 2026-03-06 at 1.35.40 PM (1)_orig.npy,1
+rep_features\test\Positives/Blocked\mfcc_WhatsApp Audio 2026-03-06 at 1.36.43 PM_orig.npy,1
+rep_features\test\Positives/Blocked\mfcc_WhatsApp Audio 2026-03-06 at 1.42.01 PM_orig.npy,1
+rep_features\test\Positives/Blocked\mfcc_WhatsApp Audio 2026-03-06 at 1.46.47 PM (2)_orig.npy,1
+rep_features\test\Positives/Blocked\mfcc_WhatsApp Audio 2026-03-06 at 12.14.09 AM_orig.npy,1
+rep_features\test\Positives/Blocked\mfcc_WhatsApp Audio 2026-03-05 at 22.58.42 (1)_orig.npy,1
+rep_features\test\Positives/Blocked\mfcc_WhatsApp Audio 2026-03-06 at 1.35.40 PM_orig.npy,1
+rep_features\test\Positives/Blocked\mfcc_whatsapp-audio-2026-03-06-at-91752-am_JHSyEkLr_orig.npy,1
+rep_features\test\Positives/Card\mfcc_whatsapp-audio-2026-03-06-at-91752-am-2_qGQ3Tyww_orig.npy,1
+rep_features\test\Positives/Card\mfcc_WhatsApp Audio 2026-03-05 at 23.01.47 (3)_orig.npy,1
+rep_features\test\Positives/Card\mfcc_WhatsApp Ptt 2026-03-05 at 21.51.25_orig.npy,1
+rep_features\test\Positives/Card\mfcc_WhatsApp Audio 2026-03-06 at 1.35.42 PM_orig.npy,1
+rep_features\test\Positives/Card\mfcc_WhatsApp Ptt 2026-03-05 at 22.53.40_orig.npy,1
+rep_features\test\Positives/Card\mfcc_WhatsApp Audio 2026-03-06 at 1.36.44 PM (2)_orig.npy,1
+rep_features\test\Positives/Card\mfcc_WhatsApp Audio 2026-03-06 at 1.40.01 PM_orig.npy,1
+rep_features\test\Positives/Card\mfcc_WhatsApp Audio 2026-03-06 at 1.46.49 PM (2)_orig.npy,1
+rep_features\test\Positives/Card\mfcc_WhatsApp Audio 2026-03-06 at 12.14.08 AM_orig.npy,1
+rep_features\test\Positives/Card\mfcc_WhatsApp Audio 2026-03-06 at 12.14.34 AM_orig.npy,1
+rep_features\test\Positives/Card\mfcc_WhatsApp Audio 2026-03-05 at 23.01.47 (2)_orig.npy,1
+rep_features\test\Positives/Card\mfcc_WhatsApp Audio 2026-03-06 at 1.36.45 PM_orig.npy,1
+rep_features\test\Positives/Code\mfcc_whatsapp-audio-2026-03-06-at-91756-am_kJYMc0oF_orig.npy,1
+rep_features\test\Positives/Code\mfcc_WhatsApp Audio 2026-03-05 at 23.04.10 (1)_orig.npy,1
+rep_features\test\Positives/Code\mfcc_WhatsApp Ptt 2026-03-05 at 21.37.03_orig.npy,1
+rep_features\test\Positives/Code\mfcc_WhatsApp Audio 2026-03-06 at 1.35.50 PM_orig.npy,1
+rep_features\test\Positives/Code\mfcc_WhatsApp Ptt 2026-03-05 at 22.38.16_orig.npy,1
+rep_features\test\Positives/Code\mfcc_WhatsApp Audio 2026-03-06 at 1.36.53 PM (1)_orig.npy,1
+rep_features\test\Positives/Code\mfcc_WhatsApp Audio 2026-03-06 at 1.40.48 PM (2)_orig.npy,1
+rep_features\test\Positives/Code\mfcc_WhatsApp Audio 2026-03-06 at 1.47.15 PM_orig.npy,1
+rep_features\test\Positives/Code\mfcc_WhatsApp Audio 2026-03-06 at 12.13.58 AM_orig.npy,1
+rep_features\test\Positives/Code\mfcc_WhatsApp Audio 2026-03-06 at 12.14.37 AM(2)_orig.npy,1
+rep_features\test\Positives/Code\mfcc_WhatsApp Audio 2026-03-05 at 23.04.09 (2)_orig.npy,1
+rep_features\test\Positives/Code\mfcc_WhatsApp Audio 2026-03-06 at 1.36.53 PM_orig.npy,1
+rep_features\test\Positives/Code\mfcc_whatsapp-audio-2026-03-06-at-91756-am_WtwelWbF (1)_orig.npy,1
+rep_features\test\Positives/Emergency\mfcc_WhatsApp Ptt 2026-03-05 at 22.59.39_orig.npy,1
+rep_features\test\Positives/Emergency\mfcc_whatsapp-audio-2026-03-06-at-91753-am_jcnowLnw_orig.npy,1
+rep_features\test\Positives/Emergency\mfcc_WhatsApp Audio 2026-03-05 at 23.01.48 (2)_orig.npy,1
+rep_features\test\Positives/Emergency\mfcc_WhatsApp Ptt 2026-03-05 at 21.51.33_orig.npy,1
+rep_features\test\Positives/Emergency\mfcc_WhatsApp Audio 2026-03-06 at 1.35.42 PM (3)_orig.npy,1
+rep_features\test\Positives/Emergency\mfcc_WhatsApp Ptt 2026-03-05 at 22.53.50_orig.npy,1
+rep_features\test\Positives/Emergency\mfcc_WhatsApp Audio 2026-03-06 at 1.36.45 PM (2)_orig.npy,1
+rep_features\test\Positives/Emergency\mfcc_WhatsApp Audio 2026-03-06 at 1.40.40 PM (1)_orig.npy,1
+rep_features\test\Positives/Emergency\mfcc_WhatsApp Audio 2026-03-06 at 1.46.50 PM_orig.npy,1
+rep_features\test\Positives/Emergency\mfcc_WhatsApp Audio 2026-03-06 at 12.14.10 AM_orig.npy,1
+rep_features\test\Positives/Emergency\mfcc_WhatsApp Audio 2026-03-06 at 12.14.40 AM_orig.npy,1
+rep_features\test\Positives/Emergency\mfcc_WhatsApp Audio 2026-03-05 at 23.01.48 (1)_orig.npy,1
+rep_features\test\Positives/Emergency\mfcc_WhatsApp Audio 2026-03-06 at 1.40.01 PM (3)_orig.npy,1
+rep_features\test\Positives/Fee\mfcc_WhatsApp Ptt 2026-03-05 at 23.00.54_orig.npy,1
+rep_features\test\Positives/Fee\mfcc_whatsapp-audio-2026-03-06-at-91754-am_NaBkmRrU_orig.npy,1
+rep_features\test\Positives/Fee\mfcc_WhatsApp Audio 2026-03-05 at 23.01.51 (2)_orig.npy,1
+rep_features\test\Positives/Fee\mfcc_WhatsApp Ptt 2026-03-05 at 22.15.08_orig.npy,1
+rep_features\test\Positives/Fee\mfcc_WhatsApp Audio 2026-03-06 at 1.35.45 PM_orig.npy,1
+rep_features\test\Positives/Fee\mfcc_WhatsApp Ptt 2026-03-05 at 23.00.48_orig.npy,1
+rep_features\test\Positives/Fee\mfcc_WhatsApp Audio 2026-03-06 at 1.36.48 PM (1)_orig.npy,1
+rep_features\test\Positives/Fee\mfcc_WhatsApp Audio 2026-03-06 at 1.40.05 PM_orig.npy,1
+rep_features\test\Positives/Fee\mfcc_WhatsApp Audio 2026-03-06 at 1.46.53 PM (1)_orig.npy,1
+rep_features\test\Positives/Fee\mfcc_WhatsApp Audio 2026-03-06 at 12.14.10 AM_orig.npy,1
+rep_features\test\Positives/Fee\mfcc_WhatsApp Audio 2026-03-06 at 12.14.24 AM_orig.npy,1
+rep_features\test\Positives/Fee\mfcc_WhatsApp Audio 2026-03-05 at 23.01.51 (1)_orig.npy,1
+rep_features\test\Positives/Fee\mfcc_WhatsApp Audio 2026-03-06 at 1.36.48 PM_orig.npy,1
+rep_features\test\Positives/Last Warning\mfcc_WhatsApp Ptt 2026-03-05 at 22.34.54_orig.npy,1
+rep_features\test\Positives/Last Warning\mfcc_whatsapp-audio-2026-03-06-at-91751-am_hcnGG30a_orig.npy,1
+rep_features\test\Positives/Last Warning\mfcc_WhatsApp Audio 2026-03-05 at 22.52.43 (2)_orig.npy,1
+rep_features\test\Positives/Last Warning\mfcc_WhatsApp Ptt 2026-03-05 at 21.31.23_orig.npy,1
+rep_features\test\Positives/Last Warning\mfcc_WhatsApp Audio 2026-03-06 at 1.35.00 PM (1)_orig.npy,1
+rep_features\test\Positives/Last Warning\mfcc_WhatsApp Ptt 2026-03-05 at 22.34.47_orig.npy,1
+rep_features\test\Positives/Last Warning\mfcc_WhatsApp Audio 2026-03-06 at 1.35.39 PM (1)_orig.npy,1
+rep_features\test\Positives/Last Warning\mfcc_WhatsApp Audio 2026-03-06 at 1.36.42 PM (2)_orig.npy,1
+rep_features\test\Positives/Last Warning\mfcc_WhatsApp Audio 2026-03-06 at 1.42.01 PM_orig.npy,1
+rep_features\test\Positives/Last Warning\mfcc_WhatsApp Audio 2026-03-06 at 1.46.46 PM_orig.npy,1
+rep_features\test\Positives/Last Warning\mfcc_WhatsApp Audio 2026-03-06 at 12.14.15 AM_orig.npy,1
+rep_features\test\Positives/Last Warning\mfcc_WhatsApp Audio 2026-03-05 at 22.52.43 (1)_orig.npy,1
+rep_features\test\Positives/Last Warning\mfcc_WhatsApp Audio 2026-03-06 at 1.35.39 PM (2)_orig.npy,1
+rep_features\test\Positives/Lottery\mfcc_whatsapp-audio-2026-03-06-at-91754-am-1_9XKEJKtb_orig.npy,1
+rep_features\test\Positives/Lottery\mfcc_WhatsApp Audio 2026-03-05 at 23.02.25 (2)_orig.npy,1
+rep_features\test\Positives/Lottery\mfcc_WhatsApp Ptt 2026-03-05 at 21.52.38_orig.npy,1
+rep_features\test\Positives/Lottery\mfcc_WhatsApp Audio 2026-03-06 at 1.35.46 PM_orig.npy,1
+rep_features\test\Positives/Lottery\mfcc_WhatsApp Ptt 2026-03-05 at 22.54.47_orig.npy,1
+rep_features\test\Positives/Lottery\mfcc_WhatsApp Audio 2026-03-06 at 1.36.49 PM (1)_orig.npy,1
+rep_features\test\Positives/Lottery\mfcc_WhatsApp Audio 2026-03-06 at 1.40.06 PM_orig.npy,1
+rep_features\test\Positives/Lottery\mfcc_WhatsApp Audio 2026-03-06 at 1.46.54 PM (1)_orig.npy,1
+rep_features\test\Positives/Lottery\mfcc_WhatsApp Audio 2026-03-06 at 12.14.10 AM_orig.npy,1
+rep_features\test\Positives/Lottery\mfcc_WhatsApp Audio 2026-03-06 at 12.14.24 AM_orig.npy,1
+rep_features\test\Positives/Lottery\mfcc_WhatsApp Audio 2026-03-05 at 23.02.25 (1)_orig.npy,1
+rep_features\test\Positives/Lottery\mfcc_WhatsApp Audio 2026-03-06 at 1.36.49 PM_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Ptt 2026-03-05 at 22.35.42_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_whatsapp-audio-2026-03-06-at-91752-am-1_AmywFSqj_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Audio 2026-03-05 at 22.58.54_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Audio 2026-03-06 at 12.15.24 AM(1)_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Ptt 2026-03-05 at 22.30.33_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Audio 2026-03-06 at 1.35.01 PM (3)_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Ptt 2026-03-05 at 21.51.11_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Audio 2026-03-06 at 1.35.40 PM (2)_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Audio 2026-03-06 at 1.36.44 PM_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Audio 2026-03-06 at 1.42.00 PM_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Audio 2026-03-06 at 1.46.48 PM (1)_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Audio 2026-03-06 at 12.14.12 AM_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Audio 2026-03-05 at 22.58.53_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Audio 2026-03-06 at 1.35.41 PM (1)_orig.npy,1
+rep_features\test\Positives/OTP\mfcc_WhatsApp Ptt 2026-03-05 at 22.35.39_orig.npy,1
+rep_features\test\Positives/Password\mfcc_WhatsApp Ptt 2026-03-05 at 22.55.59_orig.npy,1
+rep_features\test\Positives/Password\mfcc_whatsapp-audio-2026-03-06-at-91755-am-2_urIFBgju_orig.npy,1
+rep_features\test\Positives/Password\mfcc_WhatsApp Audio 2026-03-05 at 23.04.09 (1)_orig.npy,1
+rep_features\test\Positives/Password\mfcc_WhatsApp Ptt 2026-03-05 at 21.36.48_orig.npy,1
+rep_features\test\Positives/Password\mfcc_WhatsApp Audio 2026-03-06 at 1.36.51 PM (3)_orig.npy,1
+rep_features\test\Positives/Password\mfcc_WhatsApp Ptt 2026-03-05 at 22.38.01_orig.npy,1
+rep_features\test\Positives/Password\mfcc_WhatsApp Audio 2026-03-06 at 1.36.52 PM_orig.npy,1
+rep_features\test\Positives/Password\mfcc_WhatsApp Audio 2026-03-06 at 1.40.47 PM (2)_orig.npy,1
+rep_features\test\Positives/Password\mfcc_WhatsApp Audio 2026-03-06 at 1.47.14 PM_orig.npy,1
+rep_features\test\Positives/Password\mfcc_WhatsApp Audio 2026-03-06 at 12.13.59 AM_orig.npy,1
+rep_features\test\Positives/Password\mfcc_WhatsApp Audio 2026-03-06 at 12.14.39 AM_orig.npy,1
+rep_features\test\Positives/Password\mfcc_WhatsApp Audio 2026-03-05 at 23.04.08 (1)_orig.npy,1
+rep_features\test\Positives/Password\mfcc_WhatsApp Audio 2026-03-06 at 1.40.09 PM (1)_orig.npy,1
+rep_features\test\Positives/Password\mfcc_whatsapp-audio-2026-03-06-at-91755-am-2_fKh0ER3N_orig.npy,1
+rep_features\test\Positives/Prize\mfcc_whatsapp-audio-2026-03-06-at-91754-am-2_JWxY02ua_orig.npy,1
+rep_features\test\Positives/Prize\mfcc_WhatsApp Audio 2026-03-05 at 23.04.06 (2)_orig.npy,1
+rep_features\test\Positives/Prize\mfcc_WhatsApp Ptt 2026-03-05 at 21.36.02_orig.npy,1
+rep_features\test\Positives/Prize\mfcc_WhatsApp Audio 2026-03-06 at 1.35.47 PM_orig.npy,1
+rep_features\test\Positives/Prize\mfcc_WhatsApp Ptt 2026-03-05 at 22.37.24_orig.npy,1
+rep_features\test\Positives/Prize\mfcc_WhatsApp Audio 2026-03-06 at 1.36.49 PM (3)_orig.npy,1
+rep_features\test\Positives/Prize\mfcc_WhatsApp Audio 2026-03-06 at 1.40.07 PM_orig.npy,1
+rep_features\test\Positives/Prize\mfcc_WhatsApp Audio 2026-03-06 at 1.46.57 PM (2)_orig.npy,1
+rep_features\test\Positives/Prize\mfcc_WhatsApp Audio 2026-03-06 at 12.13.55 AM_orig.npy,1
+rep_features\test\Positives/Prize\mfcc_WhatsApp Audio 2026-03-06 at 12.14.22 AM_orig.npy,1
+rep_features\test\Positives/Prize\mfcc_WhatsApp Audio 2026-03-05 at 23.04.06 (1)_orig.npy,1
+rep_features\test\Positives/Prize\mfcc_WhatsApp Audio 2026-03-06 at 1.36.50 PM_orig.npy,1
+rep_features\test\Positives/Prize\mfcc_whatsapp-audio-2026-03-06-at-91754-am-2_PJxaUdis_orig.npy,1
+rep_features\test\Positives/Refund\mfcc_whatsapp-audio-2026-03-06-at-91755-am-1_nOFCgyRx_orig.npy,1
+rep_features\test\Positives/Refund\mfcc_WhatsApp Audio 2026-03-05 at 23.04.08 (2)_orig.npy,1
+rep_features\test\Positives/Refund\mfcc_WhatsApp Ptt 2026-03-05 at 21.53.17_orig.npy,1
+rep_features\test\Positives/Refund\mfcc_WhatsApp Audio 2026-03-06 at 1.36.51 PM (1)_orig.npy,1
+rep_features\test\Positives/Refund\mfcc_WhatsApp Ptt 2026-03-05 at 22.55.40_orig.npy,1
+rep_features\test\Positives/Refund\mfcc_WhatsApp Audio 2026-03-06 at 1.36.51 PM_orig.npy,1
+rep_features\test\Positives/Refund\mfcc_WhatsApp Audio 2026-03-06 at 1.40.46 PM (2)_orig.npy,1
+rep_features\test\Positives/Refund\mfcc_WhatsApp Audio 2026-03-06 at 1.47.13 PM_orig.npy,1
+rep_features\test\Positives/Refund\mfcc_WhatsApp Audio 2026-03-06 at 12.13.58 AM_orig.npy,1
+rep_features\test\Positives/Refund\mfcc_WhatsApp Audio 2026-03-06 at 12.14.44 AM_orig.npy,1
+rep_features\test\Positives/Refund\mfcc_WhatsApp Audio 2026-03-05 at 23.04.07 (3)_orig.npy,1
+rep_features\test\Positives/Refund\mfcc_WhatsApp Audio 2026-03-06 at 1.40.08 PM (1)_orig.npy,1
+rep_features\test\Positives/Reward\mfcc_WhatsApp Ptt 2026-03-05 at 23.01.41_orig.npy,1
+rep_features\test\Positives/Reward\mfcc_whatsapp-audio-2026-03-06-at-91755-am_Sgw569MA_orig.npy,1
+rep_features\test\Positives/Reward\mfcc_WhatsApp Audio 2026-03-05 at 23.04.07 (2)_orig.npy,1
+rep_features\test\Positives/Reward\mfcc_WhatsApp Ptt 2026-03-05 at 21.53.03_orig.npy,1
+rep_features\test\Positives/Reward\mfcc_WhatsApp Audio 2026-03-06 at 1.35.47 PM (3)_orig.npy,1
+rep_features\test\Positives/Reward\mfcc_WhatsApp Ptt 2026-03-05 at 22.55.21_orig.npy,1
+rep_features\test\Positives/Reward\mfcc_WhatsApp Audio 2026-03-06 at 1.36.50 PM (2)_orig.npy,1
+rep_features\test\Positives/Reward\mfcc_WhatsApp Audio 2026-03-06 at 1.40.07 PM (2)_orig.npy,1
+rep_features\test\Positives/Reward\mfcc_WhatsApp Audio 2026-03-06 at 1.46.58 PM (1)_orig.npy,1
+rep_features\test\Positives/Reward\mfcc_WhatsApp Audio 2026-03-06 at 12.13.52 AM_orig.npy,1
+rep_features\test\Positives/Reward\mfcc_WhatsApp Audio 2026-03-06 at 12.14.18 AM_orig.npy,1
+rep_features\test\Positives/Reward\mfcc_WhatsApp Audio 2026-03-05 at 23.04.07 (1)_orig.npy,1
+rep_features\test\Positives/Reward\mfcc_WhatsApp Audio 2026-03-06 at 1.36.50 PM (3)_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_WhatsApp Ptt 2026-03-05 at 22.54.22_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_whatsapp-audio-2026-03-06-at-91753-am-2_ZQLgXpuQ_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_WhatsApp Audio 2026-03-05 at 23.01.50 (2)_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_WhatsApp Ptt 2026-03-05 at 21.35.33_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_WhatsApp Audio 2026-03-06 at 1.35.44 PM_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_WhatsApp Ptt 2026-03-05 at 22.36.35_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_WhatsApp Audio 2026-03-06 at 1.36.47 PM (2)_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_WhatsApp Audio 2026-03-06 at 1.40.42 PM (1)_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_WhatsApp Audio 2026-03-06 at 1.46.52 PM_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_WhatsApp Audio 2026-03-06 at 12.14.12 AM_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_WhatsApp Audio 2026-03-06 at 12.14.38 AM_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_WhatsApp Audio 2026-03-05 at 23.01.50 (1)_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_WhatsApp Audio 2026-03-06 at 1.36.47 PM_orig.npy,1
+rep_features\test\Positives/UPI\mfcc_whatsapp-audio-2026-03-06-at-91753-am-2_IRpCxA6y_orig.npy,1
+rep_features\test\Positives/Urgent\mfcc_WhatsApp Ptt 2026-03-05 at 23.00.03_orig.npy,1
+rep_features\test\Positives/Urgent\mfcc_whatsapp-audio-2026-03-06-at-91753-am-1_jKNiq52l_orig.npy,1
+rep_features\test\Positives/Urgent\mfcc_WhatsApp Audio 2026-03-05 at 23.01.49 (2)_orig.npy,1
+rep_features\test\Positives/Urgent\mfcc_WhatsApp Ptt 2026-03-05 at 21.51.49_orig.npy,1
+rep_features\test\Positives/Urgent\mfcc_WhatsApp Audio 2026-03-06 at 1.35.43 PM_orig.npy,1
+rep_features\test\Positives/Urgent\mfcc_WhatsApp Ptt 2026-03-05 at 22.54.03_orig.npy,1
+rep_features\test\Positives/Urgent\mfcc_WhatsApp Audio 2026-03-06 at 1.36.46 PM_orig.npy,1
+rep_features\test\Positives/Urgent\mfcc_WhatsApp Audio 2026-03-06 at 1.40.41 PM (1)_orig.npy,1
+rep_features\test\Positives/Urgent\mfcc_WhatsApp Audio 2026-03-06 at 1.46.51 PM_orig.npy,1
+rep_features\test\Positives/Urgent\mfcc_WhatsApp Audio 2026-03-06 at 12.14.11 AM_orig.npy,1
+rep_features\test\Positives/Urgent\mfcc_WhatsApp Audio 2026-03-06 at 12.14.35 AM(2)_orig.npy,1
+rep_features\test\Positives/Urgent\mfcc_WhatsApp Audio 2026-03-05 at 23.01.49 (1)_orig.npy,1
+rep_features\test\Positives/Urgent\mfcc_WhatsApp Audio 2026-03-06 at 1.40.02 PM (2)_orig.npy,1
+rep_features\test\Positives/Verify\mfcc_WhatsApp Ptt 2026-03-05 at 23.02.32_orig.npy,1
+rep_features\test\Positives/Verify\mfcc_whatsapp-audio-2026-03-06-at-91756-am-1_6z4B9nVL_orig.npy,1
+rep_features\test\Positives/Verify\mfcc_WhatsApp Audio 2026-03-05 at 23.04.10 (3)_orig.npy,1
+rep_features\test\Positives/Verify\mfcc_WhatsApp Ptt 2026-03-05 at 21.53.56_orig.npy,1
+rep_features\test\Positives/Verify\mfcc_WhatsApp Audio 2026-03-06 at 1.36.53 PM (2)_orig.npy,1
+rep_features\test\Positives/Verify\mfcc_WhatsApp Ptt 2026-03-05 at 22.56.18_orig.npy,1
+rep_features\test\Positives/Verify\mfcc_WhatsApp Audio 2026-03-06 at 1.40.10 PM (2)_orig.npy,1
+rep_features\test\Positives/Verify\mfcc_WhatsApp Audio 2026-03-06 at 1.40.49 PM (2)_orig.npy,1
+rep_features\test\Positives/Verify\mfcc_WhatsApp Audio 2026-03-06 at 1.47.16 PM_orig.npy,1
+rep_features\test\Positives/Verify\mfcc_WhatsApp Audio 2026-03-06 at 12.14.14 AM_orig.npy,1
+rep_features\test\Positives/Verify\mfcc_WhatsApp Audio 2026-03-06 at 12.14.34 AM_orig.npy,1
+rep_features\test\Positives/Verify\mfcc_WhatsApp Audio 2026-03-05 at 23.04.10 (2)_orig.npy,1
+rep_features\test\Positives/Verify\mfcc_WhatsApp Audio 2026-03-06 at 1.40.11 PM (1)_orig.npy,1
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_2 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_ec32860c_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_0 (24)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_2 (24)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1355_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2615_orig.npy,0
+rep_features\test\Negatives\mfcc_fb727898_nohash_0 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_e6327279_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_f5e44d34_nohash_1 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_f2898d06_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_fdb5155e_nohash_0 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_f68160c0_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_f839238a_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5e44d34_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_f2dd248e_nohash_4_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1141_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_920_orig.npy,0
+rep_features\test\Negatives\mfcc_ffd2ba2f_nohash_0 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_f798ac78_nohash_4 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1897_orig.npy,0
+rep_features\test\Negatives\mfcc_f34e6f44_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1729_orig.npy,0
+rep_features\test\Negatives\mfcc_ff4ed4f3_nohash_3 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_f0ac2522_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffb86d3c_nohash_1 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_fe291fa9_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_2 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_2 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb969eb4_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2920_orig.npy,0
+rep_features\test\Negatives\mfcc_fcb25a78_nohash_1 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1992_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_0 (33)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffb86d3c_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2101_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2735_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_789_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7c9b3b_nohash_0 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1909_orig.npy,0
+rep_features\test\Negatives\mfcc_fde2dee7_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f4cae173_nohash_0 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_f864cd4a_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_f2e59fea_nohash_3 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_364_orig.npy,0
+rep_features\test\Negatives\mfcc_fe1916ba_nohash_0 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2252_orig.npy,0
+rep_features\test\Negatives\mfcc_f5c3de1b_nohash_0 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5d09ebd_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_efbc3952_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1333_orig.npy,0
+rep_features\test\Negatives\mfcc_ffd2ba2f_nohash_1 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_feb1d305_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_f2898d06_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbf3dd31_nohash_1 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb2f3242_nohash_0 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_f192e6b4_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2333_orig.npy,0
+rep_features\test\Negatives\mfcc_f47d644e_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_2 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2626_orig.npy,0
+rep_features\test\Negatives\mfcc_f875f965_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_ef77b778_nohash_3_orig.npy,0
+rep_features\test\Negatives\mfcc_f6af2457_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_1 (22)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_3 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_0 (20)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_4 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_fe5c4a7a_nohash_3_orig.npy,0
+rep_features\test\Negatives\mfcc_e91d173e_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_f3cee168_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbf3dd31_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1822_orig.npy,0
+rep_features\test\Negatives\mfcc_fffcabd1_nohash_0 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_284_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1414_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_0 (20)_orig.npy,0
+rep_features\test\Negatives\mfcc_fdb5155e_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f00180d0_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_ee6163d5_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_4 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_f550b7dc_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2973_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1493_orig.npy,0
+rep_features\test\Negatives\mfcc_e9a76b2f_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_4_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_481_orig.npy,0
+rep_features\test\Negatives\mfcc_fa57ab3b_nohash_2 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_1 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_3 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2410_orig.npy,0
+rep_features\test\Negatives\mfcc_f34e6f44_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_2 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_3 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fce65496_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_953_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_1 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1614_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_0 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbdc07bb_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1718_orig.npy,0
+rep_features\test\Negatives\mfcc_f810e799_nohash_0 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_714_orig.npy,0
+rep_features\test\Negatives\mfcc_f6af2457_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1360_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_175_orig.npy,0
+rep_features\test\Negatives\mfcc_f4f59743_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_924_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_2 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1590_orig.npy,0
+rep_features\test\Negatives\mfcc_f4f59743_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_2 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_874_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_1 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_fb9d6d23_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1454_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_4 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9f9751d_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_7_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1772_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_1 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_1 (23)_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_0 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_fdb5155e_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_350_orig.npy,0
+rep_features\test\Negatives\mfcc_fa70c187_nohash_0 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff21fb59_nohash_0 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_1 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_f84762e5_nohash_1 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1373_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2894_orig.npy,0
+rep_features\test\Negatives\mfcc_f816db77_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_1 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_f2f0d244_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_e9b61425_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2118_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_4 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbf3dd31_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1520_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1034_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_2 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_281_orig.npy,0
+rep_features\test\Negatives\mfcc_f839238a_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1862_orig.npy,0
+rep_features\test\Negatives\mfcc_fde2dee7_nohash_0 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_55_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_495_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1581_orig.npy,0
+rep_features\test\Negatives\mfcc_f84762e5_nohash_0 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_809_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_2 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_fc94edb0_nohash_0 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_e8b6f6fe_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_fde2dee7_nohash_0 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_0 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_467_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_3 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_1 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_0 (27)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ad3941_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2154_orig.npy,0
+rep_features\test\Negatives\mfcc_fa57ab3b_nohash_0 (23)_orig.npy,0
+rep_features\test\Negatives\mfcc_f7b43563_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbe51750_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_f6a380e7_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_f9bdf10e_nohash_0 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2547_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_313_orig.npy,0
+rep_features\test\Negatives\mfcc_eb67fcbc_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa44fcf5_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_68_orig.npy,0
+rep_features\test\Negatives\mfcc_ff4ed4f3_nohash_3 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_fe31cb13_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2990_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1805_orig.npy,0
+rep_features\test\Negatives\mfcc_f84762e5_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb9d6d23_nohash_0 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_1 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_f2e9b610_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2398_orig.npy,0
+rep_features\test\Negatives\mfcc_f852895b_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2552_orig.npy,0
+rep_features\test\Negatives\mfcc_f9af823e_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_2 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_2 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1662_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2360_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_0 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_3 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbdc07bb_nohash_0 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1984_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_2 (21)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2230_orig.npy,0
+rep_features\test\Negatives\mfcc_ffa76c4a_nohash_0 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_2 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1068_orig.npy,0
+rep_features\test\Negatives\mfcc_fcb25a78_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1683_orig.npy,0
+rep_features\test\Negatives\mfcc_f68160c0_nohash_2 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_0 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5d09ebd_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1488_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_1 (20)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2382_orig.npy,0
+rep_features\test\Negatives\mfcc_ffd2ba2f_nohash_3 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa57ab3b_nohash_2 (24)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_4 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_f3d06008_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_fbf3dd31_nohash_0 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2335_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_293_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2536_orig.npy,0
+rep_features\test\Negatives\mfcc_e9287461_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1046_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_596_orig.npy,0
+rep_features\test\Negatives\mfcc_f1d36c53_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_fa70c187_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_115_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_0 (31)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_2 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_ed07d5b7_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2042_orig.npy,0
+rep_features\test\Negatives\mfcc_fe291fa9_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2142_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_774_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2210_orig.npy,0
+rep_features\test\Negatives\mfcc_ff4ed4f3_nohash_0 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1317_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2541_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_4 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1969_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_381_orig.npy,0
+rep_features\test\Negatives\mfcc_f3957e23_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f84762e5_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffd2ba2f_nohash_0 (24)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2977_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1364_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_2 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_f292725f_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f798ac78_nohash_0 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1544_orig.npy,0
+rep_features\test\Negatives\mfcc_fb24c826_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_fac74f6a_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_374_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2921_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_3 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_eaa83485_nohash_2 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff0e27c3_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_466_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_2 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f632210f_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2312_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2006_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_939_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_316_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_655_orig.npy,0
+rep_features\test\Negatives\mfcc_ff4ed4f3_nohash_2 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff4ed4f3_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f6581345_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa70c187_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1927_orig.npy,0
+rep_features\test\Negatives\mfcc_f88f97a7_nohash_0 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_143_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_356_orig.npy,0
+rep_features\test\Negatives\mfcc_f810e799_nohash_0 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_fe1916ba_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_f47d644e_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1208_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_1 (21)_orig.npy,0
+rep_features\test\Negatives\mfcc_f550b7dc_nohash_0 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_f839238a_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5d09ebd_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffb86d3c_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_e9e07a2d_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_246_orig.npy,0
+rep_features\test\Negatives\mfcc_f798ac78_nohash_0 (24)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2966_orig.npy,0
+rep_features\test\Negatives\mfcc_ebdd0f59_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1833_orig.npy,0
+rep_features\test\Negatives\mfcc_ed032775_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1078_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2031_orig.npy,0
+rep_features\test\Negatives\mfcc_f1d36c53_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1065_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_0 (22)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_3 (24)_orig.npy,0
+rep_features\test\Negatives\mfcc_efab2cbd_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_831_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1796_orig.npy,0
+rep_features\test\Negatives\mfcc_e9bc5cc2_nohash_2 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_0 (27)_orig.npy,0
+rep_features\test\Negatives\mfcc_f2e59fea_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2428_orig.npy,0
+rep_features\test\Negatives\mfcc_f875f965_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_0 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2406_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1817_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2873_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2759_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1885_orig.npy,0
+rep_features\test\Negatives\mfcc_fa44fcf5_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9bdf10e_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_f7b43563_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9bdf10e_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_375_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ad3941_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_2 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2664_orig.npy,0
+rep_features\test\Negatives\mfcc_f568162b_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_2 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1010_orig.npy,0
+rep_features\test\Negatives\mfcc_f2e59fea_nohash_2 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_ead2934a_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1160_orig.npy,0
+rep_features\test\Negatives\mfcc_fe1916ba_nohash_0 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_fb01a182_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_ead2934a_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_1 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffbb695d_nohash_0 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5626af6_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_4 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_247_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_796_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1611_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7008b0_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2157_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_128_orig.npy,0
+rep_features\test\Negatives\mfcc_fa44fcf5_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_fad7a69a_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_eb67fcbc_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_687_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_0 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_3 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f816db77_nohash_0 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbe51750_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_f816db77_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_898_orig.npy,0
+rep_features\test\Negatives\mfcc_ff4ed4f3_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_487_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_169_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1784_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_2 (22)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_947_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2434_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2847_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2565_orig.npy,0
+rep_features\test\Negatives\mfcc_fafe8101_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1828_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_2 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_4 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_e76dd1ce_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_2 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fac7deca_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_feb1d305_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1917_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2766_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_259_orig.npy,0
+rep_features\test\Negatives\mfcc_e9bc5cc2_nohash_3 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_140_orig.npy,0
+rep_features\test\Negatives\mfcc_ff21fb59_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1949_orig.npy,0
+rep_features\test\Negatives\mfcc_fafe8101_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7cfe0e_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2413_orig.npy,0
+rep_features\test\Negatives\mfcc_f798ac78_nohash_3 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f104f742_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb727898_nohash_4 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_3 (21)_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_4 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9f9751d_nohash_1 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb727898_nohash_0 (26)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb727898_nohash_3 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_f174517e_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_f804cbb3_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1480_orig.npy,0
+rep_features\test\Negatives\mfcc_f5d09ebd_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1389_orig.npy,0
+rep_features\test\Negatives\mfcc_facd97c0_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_2 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5c3de1b_nohash_1 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_893_orig.npy,0
+rep_features\test\Negatives\mfcc_f2dd248e_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_3 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2857_orig.npy,0
+rep_features\test\Negatives\mfcc_f9af0887_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa44fcf5_nohash_0 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_3 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_3 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9273a21_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1533_orig.npy,0
+rep_features\test\Negatives\mfcc_f297e878_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_1 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_4 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_f839238a_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffd2ba2f_nohash_0 (20)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbdc07bb_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_fcb25a78_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2005_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_801_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_0 (21)_orig.npy,0
+rep_features\test\Negatives\mfcc_fffcabd1_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2465_orig.npy,0
+rep_features\test\Negatives\mfcc_f864cd4a_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1815_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ad3941_nohash_0 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_4 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2624_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1756_orig.npy,0
+rep_features\test\Negatives\mfcc_f5e5e8b0_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2888_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_3 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_367_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_951_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2397_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_1 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_285_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1576_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2281_orig.npy,0
+rep_features\test\Negatives\mfcc_ff63ab0b_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_2 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2845_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_787_orig.npy,0
+rep_features\test\Negatives\mfcc_f9af0887_nohash_0 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_3 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_fe11e258_nohash_0 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1194_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_3 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2181_orig.npy,0
+rep_features\test\Negatives\mfcc_f568162b_nohash_0 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_0 (27)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5341341_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2527_orig.npy,0
+rep_features\test\Negatives\mfcc_f864cd4a_nohash_1 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_fde2dee7_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_ef3367d9_nohash_5_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_3 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_fc94edb0_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1402_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2200_orig.npy,0
+rep_features\test\Negatives\mfcc_f68160c0_nohash_2 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_f810e799_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_1 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2010_orig.npy,0
+rep_features\test\Negatives\mfcc_f428ca69_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2800_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1950_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2616_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2854_orig.npy,0
+rep_features\test\Negatives\mfcc_e71b4ce6_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1342_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1109_orig.npy,0
+rep_features\test\Negatives\mfcc_f59d0771_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_f84762e5_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_fb24c826_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_fc2411fe_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_facd97c0_nohash_0 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1406_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1569_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_3 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_feb1d305_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffd2ba2f_nohash_1 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2806_orig.npy,0
+rep_features\test\Negatives\mfcc_fb727898_nohash_3 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_0 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_f21893dc_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1939_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2538_orig.npy,0
+rep_features\test\Negatives\mfcc_ff4ed4f3_nohash_4 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_2 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_f852895b_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_eeaf97c3_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_eaa83485_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f59d0771_nohash_0 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_f798ac78_nohash_0 (22)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2219_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_772_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1232_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_3 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1810_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2306_orig.npy,0
+rep_features\test\Negatives\mfcc_f2f0d244_nohash_2 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa44fcf5_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffb86d3c_nohash_0 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffd2ba2f_nohash_2 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1167_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_4 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_3 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_f2e59fea_nohash_3 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_113_orig.npy,0
+rep_features\test\Negatives\mfcc_f6617a86_nohash_0 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1699_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_508_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2917_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2124_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_1 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_3 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_f804cbb3_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1253_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_2 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_531_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_3 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9af823e_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_11_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_792_orig.npy,0
+rep_features\test\Negatives\mfcc_ff0e27c3_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2065_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_2 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_f7b43563_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9273a21_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_0 (21)_orig.npy,0
+rep_features\test\Negatives\mfcc_e49428d9_nohash_5_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2419_orig.npy,0
+rep_features\test\Negatives\mfcc_fda46b78_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb727898_nohash_0 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_3 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_fe291fa9_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffa76c4a_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_f68160c0_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2929_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1789_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1266_orig.npy,0
+rep_features\test\Negatives\mfcc_fac7deca_nohash_0 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1175_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_0 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_2 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_f550b7dc_nohash_3_orig.npy,0
+rep_features\test\Negatives\mfcc_fdb5155e_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1412_orig.npy,0
+rep_features\test\Negatives\mfcc_fb2f3242_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9bdf10e_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb727898_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_500_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_2 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_1 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_3 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2909_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_158_orig.npy,0
+rep_features\test\Negatives\mfcc_f5496439_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2524_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_571_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_3 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffbb695d_nohash_0 (20)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9f9751d_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_359_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_117_orig.npy,0
+rep_features\test\Negatives\mfcc_f1d8a638_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_3 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa57ab3b_nohash_3 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_f7879738_nohash_0 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1216_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1706_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1743_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1577_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1336_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_2 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2218_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_395_orig.npy,0
+rep_features\test\Negatives\mfcc_fcb25a78_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_e5afa9b0_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1499_orig.npy,0
+rep_features\test\Negatives\mfcc_ee1d8d49_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_f88f97a7_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_feb1d305_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2904_orig.npy,0
+rep_features\test\Negatives\mfcc_facd97c0_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_f47d644e_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_3 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff4ed4f3_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_0 (21)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_654_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2070_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1644_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_2 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_4 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_3 (22)_orig.npy,0
+rep_features\test\Negatives\mfcc_f42e234b_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_ec9b830b_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_1 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff0e27c3_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f68160c0_nohash_4 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2739_orig.npy,0
+rep_features\test\Negatives\mfcc_f47d644e_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_eb0676ec_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_f9f9751d_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2493_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1282_orig.npy,0
+rep_features\test\Negatives\mfcc_fb24c826_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_2 (25)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1001_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_4 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_994_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1975_orig.npy,0
+rep_features\test\Negatives\mfcc_f1d8a638_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2645_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_0 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9f9751d_nohash_0 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb24c826_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1138_orig.npy,0
+rep_features\test\Negatives\mfcc_ea9f8e11_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_1 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2697_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2136_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2321_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_0 (31)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_3 (22)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_1 (24)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_341_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2293_orig.npy,0
+rep_features\test\Negatives\mfcc_f798ac78_nohash_0 (25)_orig.npy,0
+rep_features\test\Negatives\mfcc_f816db77_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2602_orig.npy,0
+rep_features\test\Negatives\mfcc_ecbd8d66_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2702_orig.npy,0
+rep_features\test\Negatives\mfcc_facd97c0_nohash_0 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_f42e234b_nohash_0 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1442_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2078_orig.npy,0
+rep_features\test\Negatives\mfcc_f5e5e8b0_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_862_orig.npy,0
+rep_features\test\Negatives\mfcc_f864cd4a_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_486_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1692_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2643_orig.npy,0
+rep_features\test\Negatives\mfcc_fb727898_nohash_2 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_433_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2040_orig.npy,0
+rep_features\test\Negatives\mfcc_fa446c16_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_387_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1702_orig.npy,0
+rep_features\test\Negatives\mfcc_eaa83485_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb727898_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2771_orig.npy,0
+rep_features\test\Negatives\mfcc_f68160c0_nohash_3 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_225_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_217_orig.npy,0
+rep_features\test\Negatives\mfcc_f618568f_nohash_1 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2647_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_4 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_426_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_396_orig.npy,0
+rep_features\test\Negatives\mfcc_f5e44d34_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1799_orig.npy,0
+rep_features\test\Negatives\mfcc_ffb86d3c_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_688_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2721_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2791_orig.npy,0
+rep_features\test\Negatives\mfcc_fe11e258_nohash_0 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2023_orig.npy,0
+rep_features\test\Negatives\mfcc_fa57ab3b_nohash_0 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_f3cee168_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_119_orig.npy,0
+rep_features\test\Negatives\mfcc_f864cd4a_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1300_orig.npy,0
+rep_features\test\Negatives\mfcc_f7b43563_nohash_0 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa57ab3b_nohash_1 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_290_orig.npy,0
+rep_features\test\Negatives\mfcc_ed032775_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2618_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2141_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_45_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2900_orig.npy,0
+rep_features\test\Negatives\mfcc_fa57ab3b_nohash_3 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_ed0965eb_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_f5626af6_nohash_0 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_2 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f59d0771_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_fdb5155e_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff21fb59_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa70c187_nohash_0 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2426_orig.npy,0
+rep_features\test\Negatives\mfcc_ec989d6d_nohash_2 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fd9c7413_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5c3de1b_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2937_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1367_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2784_orig.npy,0
+rep_features\test\Negatives\mfcc_f2898d06_nohash_3 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_821_orig.npy,0
+rep_features\test\Negatives\mfcc_e882abb2_nohash_3 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fe11e258_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_2 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1475_orig.npy,0
+rep_features\test\Negatives\mfcc_fdb5155e_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1738_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_832_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_0 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffea4a57_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_f5626af6_nohash_2 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1959_orig.npy,0
+rep_features\test\Negatives\mfcc_fa446c16_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_e6be0830_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_ee1d8d49_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2388_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_873_orig.npy,0
+rep_features\test\Negatives\mfcc_ffd2ba2f_nohash_3 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_f2f0d244_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_ef77b778_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2510_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2969_orig.npy,0
+rep_features\test\Negatives\mfcc_f875f965_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_823_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_1 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_0 (34)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2561_orig.npy,0
+rep_features\test\Negatives\mfcc_ffd2ba2f_nohash_3 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1340_orig.npy,0
+rep_features\test\Negatives\mfcc_f798ac78_nohash_2 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_1 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1563_orig.npy,0
+rep_features\test\Negatives\mfcc_f7b43563_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff4ed4f3_nohash_1 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_2 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_3 (20)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5e44d34_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_872_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1746_orig.npy,0
+rep_features\test\Negatives\mfcc_f428ca69_nohash_3_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2832_orig.npy,0
+rep_features\test\Negatives\mfcc_f47d644e_nohash_1 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_f568162b_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2747_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_493_orig.npy,0
+rep_features\test\Negatives\mfcc_f3cee168_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_44_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_3 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_fdb5155e_nohash_2 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2297_orig.npy,0
+rep_features\test\Negatives\mfcc_e7ea8b76_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_968_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1094_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2222_orig.npy,0
+rep_features\test\Negatives\mfcc_ff4ed4f3_nohash_4_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_0 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_146_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_4 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_242_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5e5e8b0_nohash_0 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9273a21_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa70c187_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f852895b_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2755_orig.npy,0
+rep_features\test\Negatives\mfcc_f1d36c53_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2768_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_3 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_451_orig.npy,0
+rep_features\test\Negatives\mfcc_f5626af6_nohash_3 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_677_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_1 (21)_orig.npy,0
+rep_features\test\Negatives\mfcc_f804cbb3_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_2 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_f264e0df_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f34e6f44_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_fe1916ba_nohash_0 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffb86d3c_nohash_1 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_e882abb2_nohash_2 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f21893dc_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_47_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1816_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_42_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_4 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_0 (32)_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_3 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1030_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_780_orig.npy,0
+rep_features\test\Negatives\mfcc_f5626af6_nohash_2 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb01a182_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_1 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_f839238a_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_3 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1553_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_121_orig.npy,0
+rep_features\test\Negatives\mfcc_f798ac78_nohash_2 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_0 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_462_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_4_orig.npy,0
+rep_features\test\Negatives\mfcc_fcb25a78_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_fe1916ba_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff21fb59_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1119_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7c9b3b_nohash_1 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_f2e59fea_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffb86d3c_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_ed032775_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_2 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff0e27c3_nohash_0 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_f852895b_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fe31cb13_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2837_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_512_orig.npy,0
+rep_features\test\Negatives\mfcc_f4f59743_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb495c43_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_4 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2627_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1250_orig.npy,0
+rep_features\test\Negatives\mfcc_f1b35ace_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_3 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_f1d36c53_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_0 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_255_orig.npy,0
+rep_features\test\Negatives\mfcc_f2dd248e_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_2 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_f035e2ea_nohash_5_orig.npy,0
+rep_features\test\Negatives\mfcc_f5e5e8b0_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_0 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_256_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_349_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_0 (30)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_2 (22)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff21fb59_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_ef3367d9_nohash_4_orig.npy,0
+rep_features\test\Negatives\mfcc_f0522ff4_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_3 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1788_orig.npy,0
+rep_features\test\Negatives\mfcc_f0ae7203_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_4 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1698_orig.npy,0
+rep_features\test\Negatives\mfcc_ff0e27c3_nohash_0 (20)_orig.npy,0
+rep_features\test\Negatives\mfcc_f0659908_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f810e799_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_2 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5e44d34_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbe51750_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_157_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1152_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_977_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2048_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1659_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_629_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1408_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9273a21_nohash_0 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_0 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2060_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2053_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_401_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_1 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_fafe8101_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_e5d2e09d_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_fac7deca_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_f632210f_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f0659908_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2926_orig.npy,0
+rep_features\test\Negatives\mfcc_fb2f3242_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2648_orig.npy,0
+rep_features\test\Negatives\mfcc_f804cbb3_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_4 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbdc07bb_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_fb727898_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_f638a812_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_4 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_253_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1829_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_40_orig.npy,0
+rep_features\test\Negatives\mfcc_f2f0d244_nohash_2 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_e9abfe31_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2436_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_3 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1080_orig.npy,0
+rep_features\test\Negatives\mfcc_ef77b778_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f30285c8_nohash_4 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fda46b78_nohash_1 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2584_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2623_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_223_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f2898d06_nohash_3_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_378_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_272_orig.npy,0
+rep_features\test\Negatives\mfcc_f864cd4a_nohash_2 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_2 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_751_orig.npy,0
+rep_features\test\Negatives\mfcc_f6af2457_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_0 (21)_orig.npy,0
+rep_features\test\Negatives\mfcc_f575faf3_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_4 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_1 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_1 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_2 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_f864cd4a_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_f4386675_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2625_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2175_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_0 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1641_orig.npy,0
+rep_features\test\Negatives\mfcc_fb2f3242_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_f0ac2522_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_f33660af_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1036_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1090_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1237_orig.npy,0
+rep_features\test\Negatives\mfcc_efc5e569_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1648_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2641_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_3_orig.npy,0
+rep_features\test\Negatives\mfcc_fb727898_nohash_2 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_0 (33)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa57ab3b_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_3 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1130_orig.npy,0
+rep_features\test\Negatives\mfcc_f30285c8_nohash_2 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f2f0d244_nohash_3 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_1 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb727898_nohash_0 (21)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2226_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_1 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2057_orig.npy,0
+rep_features\test\Negatives\mfcc_f84762e5_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_1 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_feb1d305_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_fe5c4a7a_nohash_0 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2779_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_468_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_961_orig.npy,0
+rep_features\test\Negatives\mfcc_f5626af6_nohash_3 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_788_orig.npy,0
+rep_features\test\Negatives\mfcc_f804cbb3_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbdc07bb_nohash_1 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1204_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_f839238a_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_4 (15)_orig.npy,0
+rep_features\test\Negatives\mfcc_f1eaff75_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_f9f9751d_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2610_orig.npy,0
+rep_features\test\Negatives\mfcc_ebdd0f59_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f19d1738_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_f0659908_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffd2ba2f_nohash_1 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1491_orig.npy,0
+rep_features\test\Negatives\mfcc_f1eaff75_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_e7bcee8a_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f816db77_nohash_0 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_2 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_fdb5155e_nohash_1 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_ea0cf37f_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa44fcf5_nohash_3_orig.npy,0
+rep_features\test\Negatives\mfcc_f174517e_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_0 (26)_orig.npy,0
+rep_features\test\Negatives\mfcc_f864cd4a_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f4f59743_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb9d6d23_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_fc94edb0_nohash_0 (21)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2905_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa7895de_nohash_1 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1063_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1224_orig.npy,0
+rep_features\test\Negatives\mfcc_fb24c826_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_2 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1529_orig.npy,0
+rep_features\test\Negatives\mfcc_f798ac78_nohash_1 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1359_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1654_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1841_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_419_orig.npy,0
+rep_features\test\Negatives\mfcc_f7b43563_nohash_1 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_681_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_0 (30)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff4ed4f3_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2704_orig.npy,0
+rep_features\test\Negatives\mfcc_fce96bac_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_1 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_f638a812_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_fda46b78_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_551_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_2 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1136_orig.npy,0
+rep_features\test\Negatives\mfcc_f5626af6_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f550b7dc_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1919_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_0 (30)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1880_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_781_orig.npy,0
+rep_features\test\Negatives\mfcc_f1d8a638_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2289_orig.npy,0
+rep_features\test\Negatives\mfcc_fbe51750_nohash_0 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1669_orig.npy,0
+rep_features\test\Negatives\mfcc_f2e59fea_nohash_4 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f2b8fc18_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_552_orig.npy,0
+rep_features\test\Negatives\mfcc_fe291fa9_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2746_orig.npy,0
+rep_features\test\Negatives\mfcc_f84762e5_nohash_0 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_f0522ff4_nohash_3_orig.npy,0
+rep_features\test\Negatives\mfcc_f839238a_nohash_0 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_1 (20)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2220_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2404_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2751_orig.npy,0
+rep_features\test\Negatives\mfcc_fa57ab3b_nohash_2 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_420_orig.npy,0
+rep_features\test\Negatives\mfcc_f4504600_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_e9bc5cc2_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_fbe51750_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9af823e_nohash_2 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_4 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_e4b02540_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_342_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_371_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2012_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_600_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_3 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_f618568f_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1895_orig.npy,0
+rep_features\test\Negatives\mfcc_fa7895de_nohash_1 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_886_orig.npy,0
+rep_features\test\Negatives\mfcc_f798ac78_nohash_0 (20)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff4ed4f3_nohash_2 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_845_orig.npy,0
+rep_features\test\Negatives\mfcc_fffcabd1_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2478_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_2 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_ffbb695d_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2691_orig.npy,0
+rep_features\test\Negatives\mfcc_f428ca69_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_3000_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_2 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_f68160c0_nohash_4 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1890_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_736_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1579_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_273_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1597_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_602_orig.npy,0
+rep_features\test\Negatives\mfcc_e6327279_nohash_3_orig.npy,0
+rep_features\test\Negatives\mfcc_fb9d6d23_nohash_1 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5e5e8b0_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_4_orig.npy,0
+rep_features\test\Negatives\mfcc_f953e1af_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_f44f440f_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_0 (25)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_194_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_1 (24)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1809_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_2 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2797_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1299_orig.npy,0
+rep_features\test\Negatives\mfcc_f47d644e_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1587_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1288_orig.npy,0
+rep_features\test\Negatives\mfcc_e8d562ca_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_519_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2619_orig.npy,0
+rep_features\test\Negatives\mfcc_fdb5155e_nohash_1 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_730_orig.npy,0
+rep_features\test\Negatives\mfcc_f875f965_nohash_0 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_fce96bac_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb56351_nohash_0 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_3 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_fac7deca_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_facd97c0_nohash_1 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_990_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_3 (20)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_0 (23)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_978_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2111_orig.npy,0
+rep_features\test\Negatives\mfcc_f5e5e8b0_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_ffd2ba2f_nohash_0 (26)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5d09ebd_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_f4386675_nohash_1 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2621_orig.npy,0
+rep_features\test\Negatives\mfcc_eefd26f3_nohash_0 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1845_orig.npy,0
+rep_features\test\Negatives\mfcc_f2e9b610_nohash_4_orig.npy,0
+rep_features\test\Negatives\mfcc_fc2411fe_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_fc3ba625_nohash_2 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5733968_nohash_3_orig.npy,0
+rep_features\test\Negatives\mfcc_f816db77_nohash_0 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa57ab3b_nohash_2 (22)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb24c826_nohash_1 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff21fb59_nohash_1 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2892_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_2 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff21fb59_nohash_3 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1780_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_0 (25)_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_2 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_fe11e258_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1765_orig.npy,0
+rep_features\test\Negatives\mfcc_f852895b_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_f575faf3_nohash_0 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_f575faf3_nohash_2 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_1 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1011_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_312_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2796_orig.npy,0
+rep_features\test\Negatives\mfcc_fb01a182_nohash_1_orig.npy,0
+rep_features\test\Negatives\mfcc_fc28c8d8_nohash_1 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1104_orig.npy,0
+rep_features\test\Negatives\mfcc_f7b43563_nohash_3_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_4 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_97_orig.npy,0
+rep_features\test\Negatives\mfcc_fe291fa9_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_522_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_302_orig.npy,0
+rep_features\test\Negatives\mfcc_f7b43563_nohash_0 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_f19c1390_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_1 (9)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb2f3242_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_4 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2207_orig.npy,0
+rep_features\test\Negatives\mfcc_ec201020_nohash_0_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2331_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_1 (8)_orig.npy,0
+rep_features\test\Negatives\mfcc_f01a0d63_nohash_3_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1994_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1938_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2487_orig.npy,0
+rep_features\test\Negatives\mfcc_f9af823e_nohash_2_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_132_orig.npy,0
+rep_features\test\Negatives\mfcc_f816db77_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_fde2dee7_nohash_0 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1346_orig.npy,0
+rep_features\test\Negatives\mfcc_fffcabd1_nohash_1 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_393_orig.npy,0
+rep_features\test\Negatives\mfcc_f8ba7c0e_nohash_2 (25)_orig.npy,0
+rep_features\test\Negatives\mfcc_fac7deca_nohash_0 (20)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_2 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_f632210f_nohash_0 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbf3dd31_nohash_0 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_fa52ddf6_nohash_1 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_f575faf3_nohash_2 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fd5ccd39_nohash_1 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7c9b3b_nohash_1 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1510_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1731_orig.npy,0
+rep_features\test\Negatives\mfcc_f9bdf10e_nohash_0 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1652_orig.npy,0
+rep_features\test\Negatives\mfcc_fde2dee7_nohash_0 (16)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1878_orig.npy,0
+rep_features\test\Negatives\mfcc_f798ac78_nohash_1 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_3 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5e5e8b0_nohash_1 (6)_orig.npy,0
+rep_features\test\Negatives\mfcc_ff0e27c3_nohash_0 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_0 (21)_orig.npy,0
+rep_features\test\Negatives\mfcc_f2f0d244_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_f575faf3_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_facd97c0_nohash_1 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1605_orig.npy,0
+rep_features\test\Negatives\mfcc_ff2b842e_nohash_0 (22)_orig.npy,0
+rep_features\test\Negatives\mfcc_f5e5e8b0_nohash_0 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1854_orig.npy,0
+rep_features\test\Negatives\mfcc_f864cd4a_nohash_2 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_345_orig.npy,0
+rep_features\test\Negatives\mfcc_f2e9b610_nohash_0 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_fce96bac_nohash_1 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1344_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1566_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_3 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1875_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_0 (11)_orig.npy,0
+rep_features\test\Negatives\mfcc_f798ac78_nohash_2 (18)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_1235_orig.npy,0
+rep_features\test\Negatives\mfcc_fb7eb481_nohash_3 (10)_orig.npy,0
+rep_features\test\Negatives\mfcc_f9643d42_nohash_2 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fde2dee7_nohash_0 (14)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_129_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2504_orig.npy,0
+rep_features\test\Negatives\mfcc_f9af0887_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_e95c70e2_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_fde2dee7_nohash_0 (19)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2897_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_1 (25)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2459_orig.npy,0
+rep_features\test\Negatives\mfcc_fb24c826_nohash_0 (20)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbb2f6cc_nohash_3 (17)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_0 (29)_orig.npy,0
+rep_features\test\Negatives\mfcc_f736ab63_nohash_0 (26)_orig.npy,0
+rep_features\test\Negatives\mfcc_f0659908_nohash_3 (2)_orig.npy,0
+rep_features\test\Negatives\mfcc_f174517e_nohash_0 (3)_orig.npy,0
+rep_features\test\Negatives\mfcc_noise_2494_orig.npy,0
+rep_features\test\Negatives\mfcc_f68160c0_nohash_0 (7)_orig.npy,0
+rep_features\test\Negatives\mfcc_f798ac78_nohash_2 (5)_orig.npy,0
+rep_features\test\Negatives\mfcc_f8f60f59_nohash_1 (12)_orig.npy,0
+rep_features\test\Negatives\mfcc_fb8c31a9_nohash_3 (21)_orig.npy,0
+rep_features\test\Negatives\mfcc_fbf3dd31_nohash_0 (13)_orig.npy,0
+rep_features\test\Negatives\mfcc_fda46b78_nohash_1 (4)_orig.npy,0
+rep_features\test\Negatives\mfcc_ef3367d9_nohash_3_orig.npy,0
+rep_features\test\Negatives\mfcc_f822b9bf_nohash_0 (11)_orig.npy,0
